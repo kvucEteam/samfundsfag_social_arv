@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+
+		tekst="Hvilken alder har den gennemsnitlige beboer ifølge Conzoom?"
+		korrekt ="2"
+		feedback ="Svaret er nej. 38% blev ufaglærte, og det betyder, at 62% ikke blev det."
+		>
+			<svar value="20-29 år"/>
+			<svar value="40-49 år"/>
+			<svar value="50-59 år"/>
+			</spm>
+		<spm
+		tekst="Hvilken type uddannelse har den mest almindelige beboer?"
+		korrekt ="2"
+		feedback =""
+		>
+			<svar value="Faglært"/>
+			<svar value="Kort videregående uddannelse"/>
+			<svar value="Lang videregående uddannelse"/>
+			</spm>
+		<spm
+		tekst="Hvad er den højeste personlige indkomst i den gennemsnitlige husstand i området?"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="259.312 kr."/>
+			<svar value="477.828 kr."/>
+			<svar value="823.456 kr."/>
+		</spm>
+		<spm
+		tekst="Hvilken boligtype er typisk for området?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="En-familiehus som beboerne selv ejer"/>
+			<svar value="Etagebolig, som beboerne lejer"/>
+			<svar value="En-familiehus som beboerne lejer"/>
+			</spm>
+		<spm
+		tekst="Hvad er den gennemsnitlige formue i området?"
+		korrekt ="2"
+		feedback =""
+		>
+			<svar value="-99.774 kr."/>
+			<svar value="234.785 kr."/>
+			<svar value="1.739.730 kr."/>
+		</spm>
+		<spm
+		tekst="Hvilken Conzoomgruppe tilhører den typiske beboer?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="Velhavere"/>
+			<svar value="Livet på landet"/>
+			<svar value="Komfort og hygge"/>
+		</spm>
+		<spm
+		tekst="Hvilken Conzoomtype tilhører den typiske beboer?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="Ung andel"/>
+			<svar value="Kosmopolit"/>
+			<svar value="Kædedans"/>
+		</spm>
+	</runde>
+</wrap>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Hvad er social arv?"
+		korrekt ="1"
+		feedback ="Svaret er nej. 38% blev ufaglærte, og det betyder, at 62% ikke blev det."
+		>
+			<svar value="De holdninger, værdier og den adfærd, man overtager efter sine forældre, når de er døde."/>
+			<svar value="De holdninger, værdier og den adfærd, man bringer med sig fra sin opvækst."/>
+			<svar value="De negative sociale træk, man bringer med sig fra sin opvækst."/>
+		</spm>
+		<spm	
+		tekst="Hvilket af følgende udsagn er ikke korrekt?"
+		korrekt ="2"
+		feedback =""
+		>
+			<svar value="Forældrenes uddannelsesniveau har stor betydning for, hvilken uddannelse deres barn gennemfører." />
+			<svar value="Forældrenes holdning til uddannelse har stor betydning for, hvilken uddannelse deres barn gennemfører."/>
+			<svar value="Forældrenes intelligensniveau har stor betydning for, hvilken uddannelse deres barn gennemfører."/>
+		</spm>
+		<spm
+		tekst="Hvad er risikobørn?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="Børn hvis forældre har sociale problemer. Disse børn har en lidt større risiko for selv at få sociale problemer som voksne, end børn af forældre uden sociale problemer."/>
+			<svar value="Børn hvis forældre har sociale problemer. Det er næsten helt sikkert, at disse børn som voksne selv får præcis samme sociale problemer som som deres forældre."/>
+			<svar value="Børn som har så negativ adfærd, at de udgør en risiko for andre i deres omgivelser."/>
+		</spm>
+		<spm
+		tekst="Hvordan måles social arv?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="Man ser primært på statistikker. F.eks. på hvor mange børn af ufaglærte, som selv bliver ufaglærte. Problemet med statistik er at man kan finde sammenhænge, men ud fra statistikken alene kan man ikke se, hvad årsagerne er."/>
+			<svar value="Man ser primært på statistikker. F.eks. på hvor mange børn af ufaglærte, som selv bliver ufaglærte. Ud fra statistikker kan man se, hvor stort problemet er, og hvad årsagerne til det er."/>
+			<svar value="Man bruger kvalitative data. Man interviewer nogle enkeltpersoner og finder på den måde ud af, hvor stort problemet er."/>
+		</spm>
+		<spm
+		tekst="Hvis et barns forældre har sociale problemer, bliver barnet højst sandsynligt også selv ramt af disse problemer som voksen"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Ja. 9 ud af 10 børn, hvis forældre havde sociale problemer, udvikler sig til at få sociale problemer i samme grad som forældrene."/>
+			<svar value="Nej. 9 ud af 10 børn, hvis forældre havde sociale problemer, får ikke sociale problemer i samme grad som forældrene"/>
+			<svar value="Det kan forskerne ikke sige noget om."/>
+		</spm>
+		<spm
+
+		tekst="Hvad er en mønsterbryder?"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Et barn med sociale problemer, som skaber uro i en undervisningssituation."/>
+			<svar value="En person, der som voksen ikke følger i sine forældres sociale og uddannelsesmæssige fodspor."/>
+			<svar value="En voksen, som ikke følger de forventninger, samfundet har til ham eller hende."/>
+		</spm>
+		<spm
+		tekst="Hvad er en pushfaktor?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="En faktor, som bidrager til at bryde den negative sociale arv."/>
+			<svar value="En faktor, som bidrager til at bevare den negative sociale arv."/>
+			<svar value="En faktor, som skaber større rigdom i samfundet."/>
+		</spm>
+		<spm
+		tekst="Hvad er en pullfaktor?"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="En faktor, som bidrager til at bryde den negative sociale arv."/>
+			<svar value="En faktor, som bidrager til at bevare den negative sociale arv."/>
+			<svar value="En faktor, som skaber større lighed i samfundet."/>
+		</spm>
+ 
+
+	</runde>
+</wrap>

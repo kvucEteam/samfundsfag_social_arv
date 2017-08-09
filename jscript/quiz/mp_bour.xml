@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Hvad er formålet med Bourdieus teori?"
+		korrekt ="0"
+		feedback ="Svaret er nej. 38% blev ufaglærte, og det betyder, at 62% ikke blev det."
+		>
+			<svar value="At beskrive og forklare hvordan sociale forhold under opvæksten påvirker børn, og har indflydelse på det liv, de får som voksne"/>
+			<svar value="At sikre, at de personer, som sidder på magten i samfundet, kan give den videre til deres børn."/>
+			<svar value="At skabe større social ulighed."/>
+		</spm>
+		<spm
+		tekst="Hvad skal der forstås ved begrebet habitus?"
+		korrekt ="2"
+		feedback =""
+		>
+			<svar value="De sociale forhold, man oplever som barn." />
+			<svar value="De regler for god opførsel, som findes i finere samfundslag."/>
+			<svar value="De træk og tilbøjeligheder, som er indbygget blevet indbygget i individet gennem dets opvækst."/>
+		</spm>
+		<spm
+		tekst="Kan man vælge at ændre sin habitus?"
+		korrekt ="2"
+		feedback =""
+		>
+			<svar value="Ja, man kan f. eks. gå til psykolog."/>
+			<svar value="Nej, når habitus først er grundlagt, så kan den ikke ændres."/>
+			<svar value="Ja, men det svært. De fleste søger automatisk til de sociale lag, som de er vant til, og så ændres habitus ikke."/>
+		</spm>
+		<spm	
+		tekst="Hvad mener Bourdieu med ”kapitaler”?"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Kapitaler er udtryk for hvor mange penge man har til rådighed. Det kan være egne penge eller de økonomiske midler, ens familie besidder"/>
+			<svar value="Kapitaler er udtryk for hvilke ressourcer man har med sig ind i et felt. Hvad der gælder som kapital er forskelligt fra felt til felt – f. eks. er kapital som giver status i uddannelsessystemet ofte ret forskellig fra kapital, som giver status blandt medlemmer i en idrætsforening."/>
+			<svar value="Kapitaler handler om ejerskabet til fabrikker og andre produktionsmidler i samfundet. Typisk er det sådan at meget få individer modtager det meste af overskuddet fra samfundets produktion."/>
+		</spm>
+		<spm
+		tekst="Hvad forstår Bourdieu ved ”symbolsk vold”?"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Symbolsk vold er vold, som foregår som skuespil, f. eks. på film. Det gennemføres af stuntmænd, så der er ingen som kommer til skade."/>
+			<svar value="Symbolsk vold er den vold, der foretages mod samfundets symboler. Det kan f. eks. være, når et lands flag brændes af i en demonstration mod landets handlinger."/>
+			<svar value="Symbolsk vold er når en person betragtes som mindre værd og tvinges til ubevidst at ændre habitus, så han eller hun tilpasser sig normer og værdier, som er gældende indenfor feltet."/>
+		</spm>
+	</runde>
+</wrap>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+
+		tekst="Hvilke partier stemmer den typiske kosmopolit på?"
+		korrekt ="0"
+		feedback ="Svaret er nej. 38% blev ufaglærte, og det betyder, at 62% ikke blev det."
+		>
+			<svar value="Konservative, Liberal Alliance og Radikale Venstre"/>
+			<svar value="Enhedslisten, SF og Socialdemokratiet"/>
+			<svar value="Enhedslisten, SF og Radikale Venstre"/>
+			</spm>
+		<spm
+		tekst="Hvilken type ferie tager den typiske kosmopolit på?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="Storbyferie, hvor målet er at opleve kulturliv som opera, klassiske koncerter og museer."/>
+			<svar value="Vandreture med rygsæk, hvor man oplever fjerne uspolerede områder, hvor der kun er få andre turister."/>
+			<svar value="Charterferie, hvor målet er at slappe af og blive solbrændt."/>
+			</spm>
+		<spm
+		tekst="Hvis man skal bruge Bourdieus begreb økonomisk kapital på den typiske person med denne livsstilstype, vil du så mene at personen har:"
+		korrekt ="2"
+		feedback =""
+		>
+			<svar value="Lav økonomisk kapital?"/>
+			<svar value="Middel økonomisk kapital?"/>
+			<svar value="Høj økonomisk kapital?"/>
+		</spm>
+		<spm
+		tekst="Hvis man skal bruge Bourdieus begreb om kulturel kapital på den typiske person med denne livsstil, vil du så mene at personen har:"
+		korrekt ="2"
+		feedback =""
+		>
+			<svar value="Lav kulturel kapital"/>
+			<svar value="Middel kulturel kapital"/>
+			<svar value="Høj kulturel kapital"/>
+			</spm>
+	</runde>
+</wrap>

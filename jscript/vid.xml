@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wrap>
+	<video
+	videoId = "9r8an3cN1U4"
+	hojde ="486"
+	bredde = "864"
+	></video>
+	<runde
+	timestamp = "77"
+	>
+		<spm
+		tekst="Har dine forældres uddannelsesniveau betydning for om du selv får en uddannelse?"
+		korrekt ="0"
+		>
+			<svar value="Ja, til en vis grad"/>
+			<svar value="Nej, slet ikke"/>
+		</spm>
+		<spm
+		tekst="Hvor mange unge får ikke en ungdomsuddannelse (gymnasium, HF, teknisk skole eller lignende) efter folkeskolen?"
+		korrekt ="2"
+		>
+			<svar value="ca. 8 pct" />
+			<svar value="ca. 12 pct"/>
+			<svar value="ca. 16 pct"/>
+			<svar value="ca. 24 pct"/>
+		</spm>
+		<spm
+		tekst="Hvor mange børn af ufaglærte forældre får ikke selv en uddannelse?"
+		korrekt ="3"
+		>
+			<svar value="ca. 22 pct" />
+			<svar value="ca. 26 pct"/>
+			<svar value="ca. 30 pct"/>
+			<svar value="ca. 38 pct"/>
+		</spm>
+		<spm
+		tekst="Har dine forældres arbejde betydning for dit valg af arbejde?"
+		korrekt ="0"
+		>
+			<svar value="Ja, til en vis grad"/>
+			<svar value="Nej, slet ikke"/>
+		</spm>
+		<spm
+		tekst="Hvor mange sønner af fædre, der er håndværkere, bliver selv håndværkere?"
+		korrekt ="3"
+		>
+			<svar value="ca. 12 pct" />
+			<svar value="ca. 22 pct"/>
+			<svar value="ca. 32 pct"/>
+			<svar value="ca. 42 pct"/>
+		</spm>
+	</runde>
+	<runde
+	timestamp = "140"
+	>
+
+		<spm
+		tekst="Hvor foregår den primære socialisering'?"
+		korrekt ="1"
+		>
+			<svar value="Primær socialisering sker i børnehaven sammen med pædagoger"/>
+			<svar value="Primær socialisering sker i hjemmet sammen med familien"/>
+		</spm>
+		<spm
+		tekst="Hvor foregår den sekundære socialisering?"
+		korrekt ="0"
+		>
+			<svar value="Sekundær socialisering kan både foregå i skolen og blandt de venner man har på Internettet"/>
+			<svar value="Sekundær socialisering sker hos dine bedsteforældre"/>
+		</spm>
+	</runde>
+	<runde
+	timestamp = "186"
+	>
+		<spm
+		tekst="Hvis du vokser op i et hjem præget af vold, har du så forøget risiko for selv at blive voldelig over for egne børn?"
+		korrekt ="0"
+		>
+			<svar value="Ja, til en vis grad"/>
+			<svar value="Nej"/>
+		</spm>
+		<spm
+		tekst="Hvor mange børn oplever vold i hjemmet (at blive slået, trusler eller andet voldsomt)?"
+		korrekt ="2"
+		>
+			<svar value="ca. 4 pct" />
+			<svar value="ca. 9 pct"/>
+			<svar value="ca. 14 pct"/>
+		</spm>
+		<spm
+		tekst="Hvis du vokser op i et hjem præget af alkohol og misbrugsproblemer, har du så øget risiko for selv at udvikle alkohol- og misbrugsproblemer?"
+		korrekt ="0"
+		>
+			<svar value="Ja, til en vis grad"/>
+			<svar value="Nej"/>
+		</spm>
+		<spm
+		tekst="	Hvor mange alkoholikere er der i Danmark?"
+		korrekt ="2"
+		>
+			<svar value="ca. 100.000"/>
+			<svar value="ca. 200.000"/>
+			<svar value="ca. 250.000"/>
+		</spm>
+		<spm
+		tekst="Hvor mange stofmisbrugere er der i Danmark (vedvarende stofmisbrug med forbrug af stoffer, der medfører fysiske, psykiske og/eller sociale skader)?"
+		korrekt ="1"
+		>
+			<svar value="ca. 5.000"/>
+			<svar value="ca. 27.000"/>
+			<svar value="ca. 40.000"/>
+		</spm>
+	</runde>
+	<runde
+	timestamp = "289"
+	>
+		<spm
+		tekst="Den danske regering vil gerne øge den sociale mobilitet. Et mål er at få flere unge til at gennemføre en ungdomsuddannelse. Hvor mange procent af en ungdomsårgang vil regeringen have igennem en ungdomsuddannelse i 2015?"
+		korrekt ="2"
+		>
+			<svar value="60 pct."/>
+			<svar value="80 pct."/>
+			<svar value="95 pct."/>
+		</spm>
+		<spm
+		tekst="Hvor mange procent af en ungdomsårgang får en ungdomsuddannelse?"
+		korrekt ="1"
+		>
+			<svar value="64 pct."/>
+			<svar value="84 pct."/>
+			<svar value="94 pct."/>
+		</spm>
+	</runde>
+	
+	<runde
+	timestamp = "443"
+	>
+
+		<spm
+		tekst="Er vi dømt på forhånd?"
+		korrekt ="1"
+		>
+			<svar value="Ja"/>
+			<svar value="Nej"/>
+			</spm>
+
+			
+			<spm
+		tekst="Spiller dine forældre en rolle i forhold til om du får en uddannelse?"
+		korrekt ="0"
+		>
+			<svar value="Ja"/>
+			<svar value="Nej"/>
+			</spm>
+		
+	</runde>
+</wrap>

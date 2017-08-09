@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<wrap>
+	
+	<runde>
+		<spm
+		
+		tekst="Hvis faren var ufaglært, blev over 50 % af børnene også ufaglærte."
+		korrekt ="1"
+		feedback ="Svaret er nej. 38% blev ufaglærte, og det betyder, at 62% ikke blev det."
+		>
+			<svar value="Nej"/>
+			<svar value="Ja"/>
+		</spm>
+		<spm
+		tekst="Hvor mange procent af børn af underordnede funktionærer blev selv funktionærer (underordnede funktionærer, funktionærer i mellemgruppen eller overordnede funktionærer)?"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="Over 50%" />
+			<svar value="Under 50%"/>
+			<svar value="Under 30%"/>
+			</spm>
+	
+			<spm
+		tekst="Hvad er den mest sandsynlige stilling for børn af faglærte arbejdere?"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Faglært"/>
+			<svar value="Underordnet funktionær"/>
+			<svar value="Overordnet funktionær"/>
+		</spm>
+			<spm
+		tekst="Børn af faglærte har langt mindre sandsynlighed for at blive overordnede funktionærer end børn selvstændige med over 20 ansatte."
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Ja"/>
+			<svar value="Nej"/>
+		</spm>
+			<spm
+		tekst="Børn af fædre med en lav position på arbejdsmarkedet (ufaglært, faglært, underordnet funktionær), har mindre sandsynlighed for at opnå høje positioner (overordnet funktionær, selvstændig med over 20 ansatte) end børn af fædre med højere positioner."
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Ja"/>
+			<svar value="Nej"/>
+			<svar value="Overordnet funktionær"/>
+		</spm>
+	</runde>
+</wrap>

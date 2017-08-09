@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+
+		tekst="Giddens’ begreb om adskillelse af tid og rum refererer til:"
+		korrekt ="0"
+		feedback ="Svaret er nej. 38% blev ufaglærte, og det betyder, at 62% ikke blev det."
+		>
+			<svar value="Det forhold at vi i det senmoderne samfund kan have kontakt til vores sociale omgangskreds, selvom vi ikke befinder os på samme sted (rum) på samme tid."/>
+			<svar value="Det forhold at det i det senmoderne samfund ikke er muligt at være sammen med vores nærmeste omgangskreds på samme sted (rum) og tid."/>
+			<svar value="Det forhold at man i det senmoderne samfund kan rejse individuelt med moderne transportmidler, så man ikke længere er afhængig af sine naboer."/>
+		</spm>
+		<spm
+		tekst="’Udlejring af sociale relationer’ refererer til?"
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="Det forhold at mange sociale relationer i dag foregår med hjælp af tekniske hjælpemidler som mobiltelefon og internet" />
+			<svar value="Det forhold at mange omsorgsopgaver (f. eks. børnepasning og ældrepleje), som tidligere blev løst i familierne, i dag er overtaget af det offentlige og udføres af professionelle."/>
+			<svar value="Det forhold at mange vurderer deres forhold til andre mennesker som noget, der skal kunne betale sig og give økonomisk eller følelsesmæssigt overskud."/>
+		</spm>
+		<spm
+		tekst="Det senmoderne samfunds mange ekspertsystemer medfører..."
+		korrekt ="1"
+		feedback =""
+		>
+			<svar value="..at vi kan være langt mere trygge i vores daglige liv, end man kunne tidligere."/>
+			<svar value="..at vi bliver nødt til at stole på systemer, vi ikke kan overskue, og vi må stole på, at de enkelte elementer i systemet fungerer, selvom de er ’ansigtsløse’ for os"/>
+			<svar value="..at der bliver flere 'ansigt til ansigt-relationer'"/>
+		</spm>
+		<spm
+		tekst="Giddens’ begreb om refleksivitet handler om:"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="At vi i det senmoderne samfund er i stand til at forholde os kritisk og tvivlende til vores egen identitet og livsstil. Vi handler ikke længere bare sådan, som traditionen siger. I stedet reflekterer vi over vores personlige identitet, og kan vælge at ændre vores praksis, hvis den ikke lever op til det, vi ønsker."/>
+			<svar value="At det i det senmoderne samfund er altafgørende at reagere omgående, når der gives nye muligheder. Det gælder om at kunne handle refleksmæssigt og hurtigt, så man ikke går glip af noget. Personer med dårlige reflekser (lav refleksivitet), bliver tabere i det senmoderne samfund."/>
+			<svar value="At vi i det senmoderne samfund er blevet så selvoptagne, at det eneste, som har betydning for os, er vores eget spejlbillede (refleksion). Sociale relationer indgås kun i det omfang, de forbedrer individets refleksivitet."/>
+		</spm>
+		<spm
+		tekst="Aftraditionalisering har medført:"
+		korrekt ="0"
+		feedback =""
+		>
+			<svar value="At det enkelte individ er blevet frisat. Man er ikke længere bundet af det traditionelle fællesskabs traditioner og normer, og det enkelte individ har fået nye valgmuligheder. Man er fri til at skabe sin egen identitet og skabe sine egne sociale relationer."/>
+			<svar value="At det enkelte individ er blevet frigjort, og derfor ikke længere behøver tage særligt mange selvstændige beslutninger. Det handler bare om at følge med strømmen og gøre som alle andre. Ingen samfundsgrupper har specielle traditioner, for alle er blevet ensartede."/>
+			<svar value="At det enkelte individ præges stærkt af de forskellige traditioner, som findes i samfundet. Det er individets opgave at sikre, at traditionerne videreføres i den form, de altid har haft."/>
+		</spm>
+	</runde>
+</wrap>

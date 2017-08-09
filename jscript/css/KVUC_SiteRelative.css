@@ -1,0 +1,205 @@
+/*
+ *	For at gøre dette stylesheet brugbart på en produkt side, upload filen på følgende site lokation:
+ *
+ *	<Aktuelle site>/Documents/CSS/	||	Eksempel: Http://publ.e-undervisning.net/kroppen/Documents/CSS/
+ *
+ *	Eksistere mappen 'CSS' ikke i dokument bibliotekket 'Dokumenter', så opret en ny folder og give den
+ *	titlen 'CSS' og upload derefter denne CSS fil i denne folder.
+ *
+ */
+
+/*
+ *	-- Overordnede style på produkt siden --
+ */
+a:visited {
+color: #1d2819 !important;
+text-decoration: underline;
+}
+
+a:link {
+color: #1d2819 !important;
+text-decoration: underline;
+}
+
+.PageLayoutContentWrapper {
+	 
+    
+     
+}
+
+.elearningmainwrapper {
+    background-color: #fff;
+    }
+/*	elearningmainwrapper er den style som giver sitet den mørke grå, lidt grumsede baggrund */
+
+/*	Nedenstående er den DIV som indeholder alle elementerne på produkt siden, og som også giver
+ *	siden den lysegrå baggrundsfarve.
+ */
+#wrapper960, .elearningproduect
+{
+	background-image: url("/alledeltagere/team5/gruppe5a/forloeb1/det_politiske_system_i_danmark/PublishingImages/background-wrapper.png");
+	
+	background-color: transparent;
+}
+/*	Nedenståender CSS class' ændre KUN på linkfarver i Content Editor Webparts og Fritekst områder. */
+.s4-wpTopTable .ms-WPBody a:link, .s4-wpTopTable .ms-WPBody a, .s4-wpTopTable .ms-WPBody a:hover, .s4-wpTopTable .ms-WPBody a:visited {
+	color: #1d2819;
+	text-decoration: underline;
+}
+/*	Nedenståender CSS class' ændre KUN på linkfarver i produkt sidens titler. */
+#wrapper960 a.productheadline:link, #wrapper960 a.productheadline, #wrapper960 a.productheadline:hover, #wrapper960 a.productheadline:visited {
+	color: White;
+	text-decoration: none;
+}
+/*	PageTitle styler selve sidens titel, hvis den bliver vist på produkt siden. */
+.PageTitle {
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px !important;
+	color: #ffffff;
+	background-image: url(  '/_layouts/images/KVUC/ELearning/topmenu.png' );
+	background-repeat: no-repeat;
+}
+/*
+ *	-- Webpart style overrides --
+ */
+
+/*	Denne CSS class ændre stylen på en Webparts titel, hvis titlen bliver vist.
+ *	Dette vil slå igennem på ALLE webparts på det aktuelle site.
+ */
+.ms-WPTitle {
+	font-family: Arial;
+	font-size: 14px !important;
+	font-weight: bold;
+	color: #000000;
+}
+/*	Hvis webparten er en ListViewWebpart, altså en liste som er sat ind på siden som webpart,
+ *	så vil webpart titlen være et link hen til listen. Så denne style ændre styling af LINKS
+ *	i en webparts titel. Dette vil slå igennem på ALLE webparts på det aktuelle site.
+ */
+.ms-WPTitle A {
+	color: #999933;
+}
+/*	Ønsker man at give webpart titlen en baggrunds farve, eller et baggrunds billede
+ *	så er det denne man skal tilføje det til. Dette vil slå igennem på ALLE webparts på det aktuelle site.
+ */
+.ms-WPHeader > td {
+	border-bottom: none !important;
+}
+/*
+ *	-- Content Editor Webpart / Fritekst felt / Tooltip style overrides --
+ */
+
+/*	Nedenstående CSS class' vil ændre farven på alle titler i en Content Editor Webparts eller
+ *	fritekst felter hvor i der er valgt en titel formattering af et link.
+ */
+.kvuc-rteElement-KVUCHeader a, .kvuc-rteElement-KVUCHeader a:link, .kvuc-rteElement-KVUCHeader a:visited, .kvuc-rteElement-KVUCHeader a:active, .kvuc-rteElement-KVUCHeader a:hover, .kvuc-rteElement-KVUCSubHeader a, .kvuc-rteElement-KVUCSubHeader a:link, .kvuc-rteElement-KVUCSubHeader a:visited, .kvuc-rteElement-KVUCSubHeader a:active, .kvuc-rteElement-KVUCSubHeader a:hover {
+	color: #1d2819;
+	text-decoration: underline;
+}
+/*	Nedenstående CSS class' vil ændre stylingen på tekst og links i Tooltips */
+#wrapper960 a.tooltip, #wrapper960 a.tooltip:link, #wrapper960 a.tooltip:hover, #wrapper960 a.tooltip:visited {
+	color: #1d2819;
+	text-decoration: none;
+}
+.tooltiptext {
+	background-color: #fff;
+}
+/*	Nedenstående styles omfatter al tekst i Content Editor Webparts samt Fri-tekst felter, inklusiv
+ *	alternative tekster til billeder.
+ */
+
+/* Ændre tekst og farve på billed tekster. */
+.kvuc-rteImage-1 .altText {
+	font-family: Arial;
+}
+.kvuc-rteImage-2 .altText {
+	font-family: Arial;
+}
+.kvuc-rteImage-3 .altText {
+	font-family: Arial;
+}
+.kvuc-rteImage-4 .altText {
+	font-family: Arial;
+}
+/* Ændre skrift og farve på hovedtitler, samt undertitler i teksten. */
+.kvuc-rteElement-KVUCHeader {
+	font-family: Georgia;
+	font-size: 24px !important;
+	font-weight: bold;
+	color: #1d2819;
+}
+.kvuc-rteElement-KVUCSubHeader {
+	font-family: Georgia;
+	font-size: 16px !important;
+	font-weight: bold;
+	color: #2a3028;
+}
+/* Ændre skrift & farve på både almindelig tekst, samt links. */
+.kvuc-rteElement-KVUCPlain {
+	font-family: Verdana;
+	font-size: 13px !important;
+	font-weight: normal;
+	color: #000000;
+}
+.kvuc-rteElement-KVUCPlain a:link, .kvuc-rteElement-KVUCPlain a:active {
+	color: #2a491f;
+	text-decoration: underline;
+}
+.kvuc-rteElement-KVUCPlain a:visited {
+	color: #1d2819;
+	text-decoration: underline;
+}
+.kvuc-rteElement-KVUCPlain a:hover {
+	color: #3f4b3d;
+	text-decoration: underline;
+}
+/* Ændre tekst og farve på tekst med Læsefokus formattering. */
+.kvuc-rteElement-KVUCArticleFocus {
+	font-family: Arial;
+	font-size: 14px !important;
+	font-weight: bold;
+	color: #000000;
+}
+.MegaDropAfsnit {
+	font-family: Georgia;
+	color: white;
+	}
+
+
+.MegaDropCurrentItem
+{
+background-color:#c9d1c6 !important;
+color: #FFFFFF !important;
+
+}
+a.MegaDropAfsnit:link, a.MegaDropAfsnit:active {
+	color: #82967C;
+}
+a.MegaDropAfsnit:visited {
+	color: #82967C;
+}
+a.MegaDropAfsnit:hover {
+	background: #1d2819
+}
+.MegaDropUnderAfsnit {
+
+}
+a.MegaDropUnderAfsnit:link, a.MegaDropUnderAfsnit:active {
+	color: #82967C;
+}
+a.MegaDropUnderAfsnit:visited {
+	color: #82967C;
+}
+a.MegaDropUnderAfsnit:hover {
+	background: #1d2819
+}
+
+a.productheadline:visited {
+color: white !important;
+text-decoration: none;
+}
+
+a.productheadline:link {
+color: white !important;
+text-decoration: none;}

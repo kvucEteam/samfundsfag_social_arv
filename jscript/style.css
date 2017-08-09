@@ -1,0 +1,81 @@
+/* Dette er masken som det hele foregår indenfor*/
+
+#p {
+	/*width: 2400px; /*Denne bredde er bredden på alle billeder sammenlagt*/
+	height: 446px;
+	position: relative;
+}
+#container {
+	width: 806px;
+}
+#player {
+	z-index: 50;
+}
+
+#overlay {
+	color: black;
+	margin: 3px;
+	top: 4px;
+	left: 4px;
+	position: absolute;
+	width: 865px;
+	height: 552px;
+	background-image: url('img/bgr.png');
+	
+	
+	z-index: 75;
+	/*opacity:0.4;
+
+	 transition: all 0.3s ease-in-out;
+	 -moz-transition: all 0.3s ease-in-out;
+	 -webkit-transition: all 0.3s ease-in-out;
+	 -o-transition: all 0.3s ease-in-out;*/
+}
+.popud {
+	border-color: #E23E26;
+	color: black;
+	top: 140px;
+	/*padding-top:20px;
+	 padding-bottom:20px;*/
+	position: absolute;
+	left: 200px;
+	width: 465px;
+	height: 300px;
+	/*height: 350px;*/
+	/*z-index:12;*/
+	background-image: url('img/p_bgr.png');
+	opacity: 1;
+	z-index: 100;
+	/*opacity:0.4;
+
+	 transition: all 0.3s ease-in-out;
+	 -moz-transition: all 0.3s ease-in-out;
+	 -webkit-transition: all 0.3s ease-in-out;
+	 -o-transition: all 0.3s ease-in-out;*/
+}
+
+
+img {
+
+	position: relative;
+	margin-left:15px;
+}
+body {
+	font-family: "Open sans", sans-serif;
+}
+
+.imgspan {
+	position:relative;
+	bottom:7px;
+	left:5px;
+	margin-right:18px;
+	font-size:18px !important;
+	
+}
+
+h3 {
+	color:#56bfc5;
+	font-size:18px;
+	margin-left:15px;
+	}
+

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<wrap>
+<spm
+tekst="Hvis forældrene ikke har nogen uddannelse, er det mest sandsynligt, at børnene heller ikke får nogen uddannelse."
+svar="false"
+feedback_sandt="Nej, dette udsagn er falsk. Statistik fra år 2005 viser f. eks., at  61,9% af børn af ufaglærte fædre faktisk tog en uddannelse, og derfor ikke selv blev ufaglærte"
+feedback_falsk="Nej, det er ikke det mest sandsynlige. Statistik fra år 2005 viser f. eks., at  61,9% af børn af ufaglærte fædre faktisk tog en uddannelse, og derfor ikke selv blev ufaglærte. (kilde:Brejnrod: Sociologi. Gyldendal, 2007, s.116)"
+/> 
+
+
+<spm
+tekst="Hvis forældrene ikke har nogen uddannelse, er det mest sandsynligt, at børnene heller ikke får nogen uddannelse."
+svar="false"
+feedback_sandt="Det er ikke det mest sandsynlige. Statistik fra år 2005 viser f. eks., at  61,9% af børn af ufaglærte fædre faktisk tog en uddannelse, og derfor ikke selv blev ufaglærte (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.116)"
+feedback_falsk="Dette udsagn er falsk. Statistik fra år 2005 viser f. eks. , at  61,9% af børn af ufaglærte fædre faktisk tog en uddannelse, og derfor ikke selv blev ufaglærte (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.116)"
+/>
+  
+<spm
+tekst="Hvis dine forældre eller bedsteforældre har en gymnasieuddannelse, er der større chance for, at du også får det."
+svar="true"
+feedback_sandt="Statistik fra 2005 viser, at sandsynlighed for at gennemføre en gymnasieuddannelse er større, hvis der allerede er nogen i familien, som har en gymnasieuddannelse. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.115)"
+feedback_falsk="Dette udsagn er sandt. I gruppen af unge uden familiemedlemmer med gymnasieuddannelse gennemførte kun 30,6% en gymnasieuddannelse. Hvis både bedsteforældre og forældre havde en gymnasieuddannelse, var det 72,2 % som gennemførte en gymnasieuddannelse. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.115)"
+/>
+ 
+<spm
+tekst="Hvis en af dine forældre har en lederstilling eller driver deres eget firma med over 20 ansatte, er det mest sandsynligt, at du også selv får en lederstilling"
+svar="true"
+feedback_sandt="Statistik fra 2005 viser at 41,1%  af børn hvis far havde en lederstilling og 51% af børn, hvis far havde eget firma med over 20 ansatte, selv bliver ansat i ledende stillinger. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.115)"
+feedback_falsk="Dette udsagn er sandt. Statistik viser at 41,1%  af børn hvis far havde en lederstilling og 51% af børn , hvis far havde eget firma med over 20 ansatte, selv bliver ansat i ledende stillinger. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.115)"
+/>
+ 
+<spm
+tekst="Hvis din far er ufaglært, så har du ingen chance for at få en lederstilling."
+svar="false"
+feedback_sandt="Jo, det har du faktisk. Statistik viser at 7,4% af børn med ufaglærte fædre når til tops i lederstillinger. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.115)"
+feedback_falsk="Dette udsagn er falsk. Statistik viser at 7,4% af børn med ufaglærte fædre når til tops i lederstillinger. Så det er muligt. Men andelen af børn af ufaglærte, som får lederstillinger er klart mindre end andelen af børn af andre erhvervsgrupper. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.115)"
+/>
+  
+<spm
+tekst="Forældres uddannelsesniveau har ingen betydning for, om en person vælger at gå i gang med en videregående uddannelse."
+svar="false"
+feedback_sandt="Dette udsagn er falsk. Statistik viser, at jo højere uddannelse dine forældre har, jo større sandsynlighed er der for, at du selv vælger en videregående uddannelse. (Kilde: Samfundsstatistik 2011, figur 4.2)"
+feedback_falsk="Dette udsagn er falsk. Statistik viser, at jo højere uddannelse, dine forældre har, jo større sandsynlighed er der for, at du selv vælger en videregående uddannelse. (Kilde: Samfundsstatistik 2011, figur 4.2)"
+/>
+
+<spm
+tekst="Når det gælder uddannelse, er kvinder langt bedre til at bryde den sociale arv end mænd."
+svar="true"
+feedback_sandt="Statistik viser, at blandt børn af ufaglærte tager ca. 25% af kvinderne en videregående uddannelse, mens kun ca. 12% af mændene gør det samme. (Kilde: Samfundsstatistik 2011, figur 4.3)"
+feedback_falsk="Dette udsagn er sandt. Statistik viser, at blandt børn af ufaglærte tager ca. 25% af kvinderne en videregående uddannelse, mens kun ca. 12% af mændene gør det samme. (Kilde: Samfundsstatistik 2011, figur 4.3)"
+/> 
+
+<spm
+tekst="Hvis et barns forældre har sociale problemer, vil barnet højst sandsynligt selv få samme sociale problemer som voksen."
+svar="false"
+feedback_sandt="Det er ikke givet. 9 ud af 10 børn med problemforældre bliver mønsterbrydere og får ikke selv tilsvarende problemer i deres voksenliv. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.118)"
+feedback_falsk="Dette udsagn er falsk. 9 ud af 10 børn med problemforældre bliver mønsterbrydere og får ikke selv tilsvarende problemer i deres voksenliv. (Kilde: Brejnrod: Sociologi. Gyldendal, 2007, s.118)"
+/>
+
+<spm
+tekst="Mænd og kvinder er lige gode til at bryde den sociale arv."
+svar="false"
+feedback_sandt="Undersøgelser af uddannelsesniveau viser, at mænd er langt dårligere end kvinder til at bryde den sociale arv. Blandt børn af ufaglærte står ca. 43% af mændene selv helt uden uddannelse, mens kun ca. 34% af kvinderne er i samme situation som deres forældre. (Kilde: Piger er bedst til at bryde den sociale arv. AE-rådet, 07.09.2012, http://www.ae.dk/analyse/piger-er-bedst-til-bryde-sociale-arv)"
+feedback_falsk="Dette udsagn er falsk. Undersøgelser af uddannelsesniveau viser, at mænd er langt dårligere end kvinder til at bryde den sociale arv. Blandt børn af ufaglærte står ca. 43% af mændene selv helt uden uddannelse, mens kun ca. 34% af kvinderne er i samme situation som deres forældre. (Kilde: Piger er bedst til at bryde den sociale arv. AE-rådet, 07.09.2012, http://www.ae.dk/analyse/piger-er-bedst-til-bryde-sociale-arv)"
+  
+/>
+
+<spm
+tekst="Den sociale arv får mindre og mindre betydning."
+svar="false"
+feedback_sandt="Hvis man sammenligner situationen i dag med situationen i 1990, viser det sig, at præcis samme andel af børn af ufaglærte forældre selv står uden uddannelse. Hvad angår uddannelse er den sociale arv altså hverken blevet større eller mindre. (Kilde: Den sociale arv er lige så stærk som for 20 år siden. AE-rådet, 03.04.2011, http://www.ae.dk/analyse/sociale-arv-er-ligesa-staerk-20-ar-siden)"
+feedback_falsk="Dette udsagn er falsk. Hvis man sammenligner situationen i dag med situationen i 1990, viser det sig, at præcis samme andel af børn af ufaglærte forældre selv står uden uddannelse. Hvad angår uddannelse er den sociale arv altså hverken blevet større eller mindre. (Kilde: Den sociale arv er lige så stærk som for 20 år siden. AE-rådet, 03.04.2011, http://www.ae.dk/analyse/sociale-arv-er-ligesa-staerk-20-ar-siden)"
+
+/>
+
+ 
+<spm
+tekst="Jo lavere uddannelsesniveau forældrene har, jo større risiko er der for, at barnet som voksen begår kriminalitet."
+svar="false"
+feedback_sandt="Undersøgelser viser, at børn af forældre med lav eller ingen uddannelse har større risiko for at bryde loven end børn af veluddannede forældre. (Kilde: Kriminalitet og social baggrund, udgivet af AE-rådet 2007, http://www.ae.dk/files/Kriminalitetsanalyse-ng.pdf, tabel 11)"
+feedback_falsk="Dette udsagn er sandt. Undersøgelser viser, at børn af forældre med lav eller ingen uddannelse har større risiko for at bryde loven end børn af veluddannede forældre. (Kilde: Kriminalitet og social baggrund, udgivet af AE-rådet 2007, http://www.ae.dk/files/Kriminalitetsanalyse-ng.pdf, tabel 11)"
+/>
+ 
+<spm
+tekst="Forældres indkomstniveau har ikke nogen betydning for, om barnet som voksen begår kriminalitet."
+svar="false"
+feedback_sandt="Det har faktisk betydning Undersøgelser viser, at børn af forældre med lav indkomst har større risiko for at bryde loven end børn af forældre med høj indkomst. (Kilde: Kriminalitet og social baggrund, udgivet af AE-rådet 2007, http://www.ae.dk/files/Kriminalitetsanalyse-ng.pdf, tabel 12)"
+feedback_falsk="Dette udsagn er falsk. Undersøgelser viser, at børn af forældre med lav indkomst har større risiko for at bryde loven end børn af forældre med høj indkomst. (Kilde: Kriminalitet og social baggrund, udgivet af AE-rådet 2007, http://www.ae.dk/files/Kriminalitetsanalyse-ng.pdf, tabel 12)"
+/>
+
+<spm
+tekst="Hvis dine forældre har en lav indkomst, er det mest sandsynligt, at du selv får en lav indkomst som voksen."
+svar="both"
+feedback_sandt="Dette udsagn er delvis sandt: 30 % af børn med forældre i den laveste indkomstgruppe havner selv i den laveste indkomstgruppe. Men det betyder også, at 70% af disse børn havner i en højere indkomstgruppe end deres forældre. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, tabel 1)"
+feedback_falsk="Dette udsagn er delvis sandt: 30 % af børn med forældre i den laveste indkomstgruppe havner selv i den laveste indkomstgruppe. Men det betyder også, at 70% af disse børn havner i en højere indkomstgruppe end deres forældre. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, tabel 1)"
+/>
+ 
+<spm
+tekst="Uanset hvilken indkomstgruppe dine forældre tilhører, så er det mest sandsynligt, at du selv som voksen havner i samme indkomstgruppe."
+svar="both"
+feedback_sandt="Dette udsagn er delvis sandt: For alle indkomstgrupper gælder det, at der er størst sandsynlighed for, at børnene havner i samme gruppe som deres forældre. Men for alle grupper gælder det, at mellem 66%  og 78% af børnene havner i en anden gruppe end forældrene. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, tabel 1)"
+feedback_falsk="Dette udsagn er delvis sandt: For alle indkomstgrupper gælder det, at der er størst sandsynlighed for at børnene havner i samme gruppe som deres forældre. Men for alle grupper gælder det, at mellem 66%  og 78% af børnene havner i en anden gruppe end forældrene. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, tabel 1)"
+/>
+
+<spm
+tekst="Det har betydning for et barns uddannelseschancer, om forældrene bor sammen."
+svar="true"
+feedback_sandt="Ja. Undersøgelser viser, at der er større chance for, at et barn gennemfører en uddannelse, hvis barnet er vokset op i et hjem med begge forældre, end hvis barnet kun boede sammen med en af sine forældre (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, figur 4a)"
+feedback_falsk="Dette udsagn er sandt. Undersøgelser viser, at der er større chance for, at et barn gennemfører en uddannelse, hvis barnet er vokset op i et hjem med begge forældre, end hvis barnet kun boede sammen med en af sine forældre (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, figur 4a)"
+/>
+ 
+<spm
+tekst="Et barn af forældre på kontanthjælp, har større risiko for at blive ufaglært og arbejdsløs end et barn af forældre, som ikke var på kontanthjælp."
+svar="true"
+feedback_sandt="Ja. Risikoen for at blive arbejdsløs eller ikke få en uddannelse er næsten dobbelt så stor hos børn af forældre på kontanthjælp som hos børn af forældre, som ikke var på kontanthjælp. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, figur 4b)"
+feedback_falsk="Dette udsagn er sandt.  Risikoen for at blive arbejdsløs eller ikke få en uddannelse er næsten dobbelt så stor hos børn af forældre på kontanthjælp som hos børn af forældre, som ikke var på kontanthjælp. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, figur 4b)"
+/>
+ 
+<spm
+tekst="Hvis dine forældre er på førtidspension eller kontanthjælp, er sandsynligheden for, at at du selv får en uddannelse og et job meget små."
+svar="false"
+feedback_sandt="Dette udsagn er falsk. Over 50% af børn af forældre på førtidspension eller kontanthjælp får en uddannelse og over 70% af børnene er i arbejde. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, figur 4b)"
+feedback_falsk="Ja, dette udsagn er falsk. Over 50% af børn af forældre på førtidspension eller kontanthjælp får en uddannelse og over 70% af børnene er i arbejde. (Kilde: Børns opvækstvilkår har enorm betydning for fremtiden. Udgivet af AE-rådet, 2011, http://www.ae.dk/files/AE_borns-opvaekstvilkaar-%20har-enorm-betydning-for-fremtiden.pdf, figur 4b)"
+/>
+</wrap>

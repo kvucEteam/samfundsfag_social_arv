@@ -1,0 +1,62 @@
+#player {
+	z-index: 1;
+	position: absolute;
+}
+#runde {
+	color: #777777;
+	opacity: 0.9;
+}
+#overlay {
+	position: relative;
+	background-image: url('img/bgr_white.png');
+	z-index: 75;
+}
+.popud {
+	top: 100px;
+	position: absolute;
+	background-image: url('img/p_bgr2.png');
+	background-color: white;
+	opacity: 0.9;
+	z-index: 100;
+	border: 2px solid grey;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+img {
+	position: relative;
+	margin-left: 15px;
+	cursor: pointer;
+}
+h4 {
+	margin: 15px;
+	/*bottom:0px;*/
+	position: relative;
+	font-size: 10pt;
+}
+td {
+	margin: 3px;
+}
+body {
+	font-family: "Arial", sans-serif;
+}
+.imgspan {
+	position: relative;
+	font-size: 16px !important;
+	top:0px;
+	cursor: pointer;
+}
+h3 {
+	color: #00ADEE;
+	font-size: 16px;
+	margin: 15px;
+}
+#time {
+
+	position: absolute;
+	top: 500px;
+	width: 864px;
+	color: white;
+	background-color:#777777;
+	font-size: 10px;
+}
+
