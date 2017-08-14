@@ -81,6 +81,7 @@ function onYouTubeIframeAPIReady() {
 			'controls' : 0,
 			'showinfo' : 0,
 			'modestbranding' : 1,
+			'rel': 0,
 			wmode : 'transparent',
 			allowFullScreen : false
 
